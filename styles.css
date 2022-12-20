@@ -7,7 +7,7 @@ body {
   background-image: url(images/background.jpg);
   height: 80%;
   background-repeat: repeat-x;
-  width: 100vw;
+  width: 800vw;
   animation: shake linear 7s infinite;
   position: absolute;
 }
@@ -17,7 +17,7 @@ body {
   height: 100%;
   background-repeat: repeat;
   animation: treesmove linear 12s infinite;
-  width: 400vw;
+  width: 800vw;
   top: 50px;
 }
 .track {
